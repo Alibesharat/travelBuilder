@@ -1,0 +1,47 @@
+# .gitignore for ASP.NET Core
+
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# VS Code files
+.vscode/
+
+# Rider files
+.idea/
+
+# Mac files
+.DS_Store
+
+# Configuration files
+*.config
+*.json
+
+# Log files
+*.log
+
+# Node.js dependencies (if any)
+node_modules/
+
+# Ignore EF Migrations files (optional, if auto-generated)
+Migrations/
+
+# Ignore publish output
+publish/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+
+# SQLLiteDb
+*.db
