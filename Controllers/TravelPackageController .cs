@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using TravelBuilder.DAL.DbContexts;
+using TravelBuilder.DAL.Models;
 
 namespace travelBuilder.Controllers
 {
